@@ -29,7 +29,7 @@ urlcolor: blue
 
 # Education
 
-*University	of	Minnesota*, PhD Public Affairs \hfill 2019 (Expected)
+*University	of	Minnesota*, PhD Public Affairs \hfill 2020 (Expected)
 
 *University	of	Minnesota*, Master of Urban & Regional Planning  \hfill 2014
 
@@ -49,7 +49,8 @@ PA 5221 Private Sector Development (2015)
 # Publications
 
 ## Journal Articles
-\*Goetz,	E.G.,	__A. Damiano__ &	R. Williams. Forthcoming. *Racially Concentrated Areas of Affluence: A Preliminary Investigation*. Cityscape.
+\*Goetz,	E.G.,	__A. Damiano__ &	R. Williams.(2019). *Racially Concentrated Areas of Affluence: A Preliminary Investigation*. Cityscape: A Journal of Policy Development and Research, 21(1), 99–124.
+
 
 ## Refereed Conference Papers
 __Damiano,	A.__ 	(2019, Mar). *Effects of New Development on Existing Rents in Minneapolis, MN*. Paper	presentation at	the	Urban	Affairs	Association Conference.	Los Angeles, CA.
@@ -89,15 +90,14 @@ __Damiano,	A.__ & J.	Matson.	(2014,	Oct).	*Asset Mapping	for	Community	Developme
 
 
 # Working Papers and Works in Progress
-"Climbing the Ladder: Fair Housing and Community Participation in Minneapaolis, MN" *under review*
+"Whiteness and Affluence in Urban Planning" (with Rasahd Williams and Edward Goetz)
 
-"Gentrification Plus”: Concentrated Poverty in Gentrifying Neighborhoods." (with Edward Goetz) *under review*
+"Climbing the Ladder: Fair Housing and Community Participation in Minneapaolis, MN" 
+
+"Gentrification Plus”: Concentrated Poverty in Gentrifying Neighborhoods." (with Edward Goetz)
 
 "Geographic Specificity Matters: Centering the Perspectives of Community Based Stakeholders for a Holistic Understanding of Gentrification in the Twin Cities" (with Brittany Lewis, Molly Calhoun, and Edward Goetz) *under review*
 
-"Effects of New Construction on Existing Rents"
-
-"Urban Theory and Racially Concentrated Areas of Affluence" (with Rashad Williams and Edward Goetz)
 
 
 # Awards
