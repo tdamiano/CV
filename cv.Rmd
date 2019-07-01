@@ -55,7 +55,7 @@ PA 5221 Private Sector Development (2015)
 ## Refereed Conference Papers
 __Damiano,	A.__ 	(2019, Mar). *Effects of New Development on Existing Rents in Minneapolis, MN*. Paper	presentation at	the	Urban	Affairs	Association Conference.	Los Angeles, CA.
 
-\*__Damiano,	A__ (2017) *Beyond	Gentrification: Shifting	Neighborhood	Hierarchies	in	American Metropolitan	Areas.*	Paper	presentation	at	the	Conference of the	American Collegiate	Schools	of	Planning	Annual	(ACSP)	Conference. Denver,	CO.
+\* __Damiano,	A__ (2017) *Beyond	Gentrification: Shifting	Neighborhood	Hierarchies	in	American Metropolitan	Areas.*	Paper	presentation	at	the	Conference of the	American Collegiate	Schools	of	Planning	Annual	(ACSP)	Conference. Denver,	CO.
 
 \*Lewis,	B.,	Goetz,	E.G.,	Calhoun,	M.,	__Damiano,	A.__ (2017) *Gentrification	Debates: Identifying Gentrification	and	its	Effects	in	Minneapolis-St.	Paul*. Paper presentation	at the	Conference	of	the	American	Collegiate Schools of Planning	Annual (ACSP)	Conference.	Denver,	CO.
 
@@ -90,6 +90,8 @@ __Damiano,	A.__ & J.	Matson.	(2014,	Oct).	*Asset Mapping	for	Community	Developme
 
 
 # Working Papers and Works in Progress
+"Effects of New Construction on Existing Rents" (with Christopher Frenier)
+
 "Whiteness and Affluence in Urban Planning" (with Rasahd Williams and Edward Goetz)
 
 "Climbing the Ladder: Fair Housing and Community Participation in Minneapaolis, MN" 
