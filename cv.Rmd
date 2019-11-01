@@ -1,5 +1,5 @@
 ---
-output: 
+output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/CV/td-latex-cv.tex
@@ -16,7 +16,7 @@ github: tdamiano
 twitter: tony_damiano
 #phone: "319-530-3532"
 web: tonydamiano.com
-updated: yes
+#updated: no
 
 keywords: Urban planning, housing policy, R
 
@@ -40,35 +40,60 @@ urlcolor: blue
 ## University of Minnesota
 
 *Instructor*
+
 PA 5261 Housing Policy (2017, 2018)
 
 *Teaching Assistant*
+
 PA 5221 Private Sector Development (2015)
 
 
-# Publications
 
-## Journal Articles
-\*Goetz,	E.G.,	__A. Damiano__ &	R. Williams.(2019). *Racially Concentrated Areas of Affluence: A Preliminary Investigation*. Cityscape: A Journal of Policy Development and Research, 21(1), 99–124.
+# Journal Articles
+1. Goetz, E.G.,	R. Williams., __A. Damiano__. (Conditionally Accepted). *Whiteness and Urban Planning*. Journal of the American Planning Association.
 
 
-## Refereed Conference Papers
-__Damiano,	A.__ 	(2019, Mar). *Effects of New Development on Existing Rents in Minneapolis, MN*. Paper	presentation at	the	Urban	Affairs	Association Conference.	Los Angeles, CA.
+2. Lewis, B., Calhoun, M., Goetz, E.G.,  & __Damiano, A__. (Forthcoming). *Geographic Specificity Matters: Centering the Perspectives of Community Based Stakeholders for a Holistic Understanding of Gentrification in the Twin Cities*. City & Community.
 
-\* __Damiano,	A__ (2017) *Beyond	Gentrification: Shifting	Neighborhood	Hierarchies	in	American Metropolitan	Areas.*	Paper	presentation	at	the	Conference of the	American Collegiate	Schools	of	Planning	Annual	(ACSP)	Conference. Denver,	CO.
 
-\*Lewis,	B.,	Goetz,	E.G.,	Calhoun,	M.,	__Damiano,	A.__ (2017) *Gentrification	Debates: Identifying Gentrification	and	its	Effects	in	Minneapolis-St.	Paul*. Paper presentation	at the	Conference	of	the	American	Collegiate Schools of Planning	Annual (ACSP)	Conference.	Denver,	CO.
+3.  Goetz, E.G.,	__A. Damiano__ &	R. Williams. (2019). *Racially Concentrated Areas of Affluence: A Preliminary Investigation*. Cityscape: A Journal of Policy Development and Research, 21(1), 99–124.
 
-\*__Damiano.	A.__ &	E.G.	Goetz. (2017). *Is	the	Great	Inversion	Here	to	Stay?	:	New	Evidence	&	Implications for	Public	Policy.* Paper	presentation at	the	Urban	Affairs	Association Conference.	Minneapolis, MN.
+Accompanying web site (https://tonydamiano.shinyapps.io/rcaa/)
 
-Goetz,	E.G. &	\* __A.	Damiano.__	(2016).	*Exclusionism	or	Leveling?	Explaining	Rates	of	Affordable	Housing	Production	in	Suburban	Communities.*	Paper	presentation at	the	Annual	Conference	of	the	American	Collegiate	Schools	of	Planning	Annual	(ACSP)	Conference. Portland,	OR.
 
-\*Goetz,	E.G.,	__A. Damiano__ &	J. Hicks.	(2015).	*On	Racially	Concentrated	Areas	of	Wealth.*	Paper	presentation at	the	Spatial	Foundations	of	Inequality	Conference	sponsored	by the	Russell	Sage Foundation	NY,	NY.
+# Conference Papers
+\* __Damiano,	A__. (2019). *Whiteness and Planning*. Paper	presentation	at	the	Conference of the	American Collegiate	Schools	of Planning (ACSP) Annual Conference. Greenville, SC.
+
+\*Goetz, E.G.,	R. Williams., & __A. Damiano__.(2019). *Whiteness and Planning*. Paper	presentation	at	the	Conference of the	American Collegiate	Schools	of	Planning (ACSP) Annual	Conference. Greenville, SC.
+
+\*__Damiano,	A.__ 	(2019). *Effects of New Development on Existing Rents in Minneapolis, MN*. Paper presentation at the Urban	Affairs	Association Conference.	Los Angeles, CA.
+
+\* __Damiano,	A__ (2017) *Beyond	Gentrification: Shifting	Neighborhood	Hierarchies	in	American Metropolitan	Areas.*	Paper	presentation	at	the	Conference of the	American Collegiate	Schools	of	Planning	(ACSP) Annual	Conference. Denver,	CO.
+
+\*Lewis,	B.,	Goetz,	E.G.,	Calhoun,	M.,	__Damiano,	A.__ (2017) *Gentrification	Debates: Identifying Gentrification	and	its	Effects	in	Minneapolis-St.	Paul*. Paper presentation	at the	Conference of	the	American	Collegiate Schools of Planning (ACSP) Annual Conference.	Denver,	CO.
+
+\*__Damiano.	A.__ &	E.G.	Goetz. (2017). *Is	the	Great	Inversion	Here	to	Stay?	:	New	Evidence &	Implications for	Public	Policy.* Paper presentation at	the	Urban	Affairs	Association Conference.	Minneapolis, MN.
+
+Goetz,	E.G. &	\* __A.	Damiano.__	(2016).	*Exclusionism	or	Leveling?	Explaining	Rates	of	Affordable	Housing	Production	in	Suburban	Communities.*	Paper	presentation at	the	Annual	Conference	of	the	American	Collegiate	Schools	of	Planning (ACSP)	Annual Conference. Portland,	OR.
+
+\*Goetz,	E.G.,	__A. Damiano__ &	J. Hicks.	(2015).	*On	Racially	Concentrated	Areas	of	Wealth.*	Paper	presentation at	the	Spatial	Foundations	of	Inequality	Conference sponsored	by the	Russell	Sage Foundation	NY,	NY.
 
 _(\*Presenting Author)_
 
-# Invited Presentations
-__Damiano,	A.__ 	(2018, Sep). *Gentrification	in Minneapolis & St. Paul: Quantitative Analysis.* National Association for County Community & Economic Development (NACCED). Minneapolis,	MN.
+# Research Publications
+
+Goetz, E.G.,	__A. Damiano__ (2019) *Gentrification in Suburban Hennepin County 2000-2016*. Prepared for the staff of Hennepin County, MN.
+
+Goetz, E. G., Lewis, B., __Damiano, A.__, & Calhoun, M. (2019). *The Diversity of Gentrification: Multiple Forms of Gentrification in Minneapolis and St. Paul*. Retrieved from Center for Urban and Regional Affairs, University of Minnesota website: https://gentrification.dl.umn.edu/sites/g/files/pua4816/f/media/diversity-of-gentrification-012519.pdf
+
+
+
+# Invited Talks
+__Damiano,	A.__ & Molly Calhoun.	(2019, Oct). *Gentrification in Minneapolis & St. Paul*. Sustain St. Paul Monthly Meeting. St. Paul, MN.
+
+__Damiano,	A.__ & Molly Calhoun.	(2019, Apr). *Gentrification in Minneapolis & St. Paul.* Twin Cities Habitat for Humanity Annual Board Meeting. St. Paul, MN.
+
+__Damiano,	A.__ 	(2018, Sep). *Gentrification in Minneapolis & St. Paul: Quantitative Analysis.* National Association for County Community & Economic Development (NACCED). Minneapolis,	MN.
 
 __Damiano,	A.__ & N. Mehta. (2016, Dec). *Gentrification in	Minneapolis.*	City of Minneapolis	Long-range Planning	Committee. Minneapolis,	MN.
 
@@ -89,23 +114,21 @@ __Damiano,	A.__ & J. Matson.	(2014,	Feb).	*Minneapolis-Saint Paul Housing Market
 __Damiano,	A.__ & J.	Matson.	(2014,	Oct).	*Asset Mapping	for	Community	Development.* University	of Minnesota	Annual Conference	on Policy	Analysis,	Saint	Paul,	MN.
 
 
-# Working Papers and Works in Progress
-"Effects of New Construction on Existing Rents" (with Christopher Frenier)
-
-"Whiteness and Affluence in Urban Planning" (with Rasahd Williams and Edward Goetz)
-
-"Climbing the Ladder: Fair Housing and Community Participation in Minneapaolis, MN" 
-
+# Articles In preparation
 "Gentrification Plus”: Concentrated Poverty in Gentrifying Neighborhoods." (with Edward Goetz)
 
-"Geographic Specificity Matters: Centering the Perspectives of Community Based Stakeholders for a Holistic Understanding of Gentrification in the Twin Cities" (with Brittany Lewis, Molly Calhoun, and Edward Goetz) *under review*
+"Climbing the Ladder: Fair Housing and Community Participation in Minneapaolis, MN"
 
+"Effects of New Construction on Existing Rents" (with Christopher Frenier)
 
 
 # Awards
-U-Spatial Mapping Prize _Best Interactive Map Graduate Student Category. North Minneapolis Asset Project. 2013
+U-Spatial Mapping Prize _Best Interactive Map Graduate Student Category._ North Minneapolis Asset Project. 2013
 
 
 # Professional Affiliations
-Urban Affairs Association  
-American Collegiate Schools of Planning
+Urban Affairs Association  (2014)
+American Collegiate Schools of Planning (2014)
+
+# Service
+Reviewer *City & Community* 2018-Present
