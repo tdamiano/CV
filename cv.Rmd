@@ -15,8 +15,8 @@ email: damia025@umn.edu
 github: tdamiano
 twitter: tony_damiano
 #phone: "319-530-3532"
-web: tonydamiano.com
-#updated: no
+web: www.tonydamiano.com
+#updated:
 
 keywords: Urban planning, housing policy, R
 
@@ -29,7 +29,7 @@ urlcolor: blue
 
 # Education
 
-*University	of	Minnesota*, PhD Public Affairs \hfill 2020 (Expected)
+*University	of	Minnesota*, PhD Public Affairs \hfill 2021 (Expected)
 
 *University	of	Minnesota*, Master of Urban & Regional Planning  \hfill 2014
 
@@ -41,19 +41,20 @@ urlcolor: blue
 
 *Instructor*
 
-PA 5261 Housing Policy (2017, 2018)
+PA 5261 Housing Policy (2017, 2018, 2021)
+
+PA 5204 Urban Spatial and Social Dynamics (2021)
 
 *Teaching Assistant*
 
 PA 5221 Private Sector Development (2015)
 
 
-
 # Journal Articles
-1. Goetz, E.G.,	R. Williams., __A. Damiano__. (Conditionally Accepted). *Whiteness and Urban Planning*. Journal of the American Planning Association.
+1. Goetz, E.G.,	R. Williams., __A. Damiano__. (2020). *Whiteness and Urban Planning*. Journal of the American Planning Association.
 
 
-2. Lewis, B., Calhoun, M., Goetz, E.G.,  & __Damiano, A__. (Forthcoming). *Geographic Specificity Matters: Centering the Perspectives of Community Based Stakeholders for a Holistic Understanding of Gentrification in the Twin Cities*. City & Community.
+2. Lewis, B., Calhoun, M., Goetz, E.G.,  & __Damiano, A__. (2020). *Geographic Specificity Matters: Centering the Perspectives of Community Based Stakeholders for a Holistic Understanding of Gentrification in the Twin Cities*. City & Community.
 
 
 3.  Goetz, E.G.,	__A. Damiano__ &	R. Williams. (2019). *Racially Concentrated Areas of Affluence: A Preliminary Investigation*. Cityscape: A Journal of Policy Development and Research, 21(1), 99–124.
@@ -81,10 +82,11 @@ Goetz,	E.G. &	\* __A.	Damiano.__	(2016).	*Exclusionism	or	Leveling?	Explaining	R
 _(\*Presenting Author)_
 
 # Research Publications
+Goetz, E.G.,	__A. Damiano__, P. Brown, & J. Matson (In Progress) *Policy Implications of Rent Stabilization for Minneapolis, MN*. Prepared for the staff of the City of Minneapolis, MN.
 
 Goetz, E.G.,	__A. Damiano__ (2019) *Gentrification in Suburban Hennepin County 2000-2016*. Prepared for the staff of Hennepin County, MN.
 
-Goetz, E. G., Lewis, B., __Damiano, A.__, & Calhoun, M. (2019). *The Diversity of Gentrification: Multiple Forms of Gentrification in Minneapolis and St. Paul*. Retrieved from Center for Urban and Regional Affairs, University of Minnesota website: https://gentrification.dl.umn.edu/sites/g/files/pua4816/f/media/diversity-of-gentrification-012519.pdf
+Goetz, E. G., Lewis, B., __Damiano, A.__, & Calhoun, M. (2019). *The Diversity of Gentrification: Multiple Forms of Gentrification in Minneapolis and St. Paul*. Retrieved from Center for Urban and Regional Affairs, University of Minnesota website: http://gentrification.umn.edu/sites/gentrification.dl.umn.edu/files/media/diversity-of-gentrification-012519.pdf
 
 
 
@@ -114,10 +116,8 @@ __Damiano,	A.__ & J. Matson.	(2014,	Feb).	*Minneapolis-Saint Paul Housing Market
 __Damiano,	A.__ & J.	Matson.	(2014,	Oct).	*Asset Mapping	for	Community	Development.* University	of Minnesota	Annual Conference	on Policy	Analysis,	Saint	Paul,	MN.
 
 
-# Articles In preparation
+# Articles In Preparation
 "Gentrification Plus”: Concentrated Poverty in Gentrifying Neighborhoods." (with Edward Goetz)
-
-"Climbing the Ladder: Fair Housing and Community Participation in Minneapaolis, MN"
 
 "Effects of New Construction on Existing Rents" (with Christopher Frenier)
 
@@ -127,9 +127,13 @@ U-Spatial Mapping Prize _Best Interactive Map Graduate Student Category._ North 
 
 
 # Professional Affiliations
-Urban Affairs Association  (2014)
+Urban Affairs Association  (2014-Present)
 
-American Collegiate Schools of Planning (2014)
+American Collegiate Schools of Planning (2014-Present)
 
 # Service
-Reviewer *City & Community* 2018-Present
+Reviewer 
+
+*City & Community* (2018-Present)
+
+*Urban Studies*    (2020-Present)
