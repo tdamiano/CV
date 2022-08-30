@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Anthony Damiano
 
-jobtitle: "PhD Candidate, University of Minnesota"
+jobtitle: "Postdoctoral Research Fellow, University of Minnesota"
 address: "301 19th Ave S, Minneapolis, MN 55455"
 fontawesome: yes
 email: damia025@umn.edu
@@ -29,7 +29,7 @@ urlcolor: blue
 
 # Education
 
-*University	of	Minnesota*, PhD Public Affairs \hfill 2021 (Expected)
+*University	of	Minnesota*, PhD Public Affairs \hfill 2021
 
 *University	of	Minnesota*, Master of Urban & Regional Planning  \hfill 2014
 
@@ -61,16 +61,18 @@ Accompanying web site (https://tonydamiano.shinyapps.io/rcaa/)
 
 
 # Research Publications
-Goetz, E.G.,	__A. Damiano__, P. Brown, & J. Matson (In Progress) *Policy Implications of Rent Stabilization for Minneapolis, MN*. Prepared for the staff of the City of Minneapolis, MN.
+Goetz, E.G.,	__A. Damiano__, P. Brown, P. Alcorn, & J. Matson (2021) *Policy Implications of Rent Stabilization for Minneapolis, MN*. Prepared for the staff of the City of Minneapolis, MN.
+[Link](https://www.cura.umn.edu/sites/cura.umn.edu/files/2021-08/Minneapolis-Rent-Stabilization-Study-web.pdf)
 
-Goetz, E.G.,	__A. Damiano__ (2019) *Gentrification in Suburban Hennepin County 2000-2016*. Prepared for the staff of Hennepin County, MN.
+Goetz, E.G. & __A. Damiano__ (2019) *Gentrification in Suburban Hennepin County 2000-2016*. Prepared for the staff of Hennepin County, MN.
 
 Goetz, E. G., Lewis, B., __Damiano, A.__, & Calhoun, M. (2019). *The Diversity of Gentrification: Multiple Forms of Gentrification in Minneapolis and St. Paul*. Retrieved from Center for Urban and Regional Affairs, University of Minnesota. [Link](http://gentrification.umn.edu/sites/gentrification.dl.umn.edu/files/media/diversity-of-gentrification-012519.pdf)
 
 
 # Book Chapters
-Goetz, E.G.,	__A. Damiano__ &	R. Williams. (Forthcoming). Changing the Narrative and Playbook on Racially Concentrated Areas of Poverty. In Joseph, M.L., & A.T. Khare (Eds.), What Works to Promote
-Inclusive, Equitable Mixed‐Income Communities. [Link](https://case.edu/socialwork/nimc/sites/case.edu.nimc/files/2020-09/Goetz.WWV_.Changing%20the%20Narrative.2020.pdf)
+Goetz, E.G., __A. Damiano__ &	R. Williams. (2021). Changing the Narrative and Playbook on Racially Concentrated Areas of Poverty. In Joseph, M.L., & A.T. Khare (Eds.), *What Works to Promote Inclusive, Equitable Mixed‐Income Communities*. [Link](https://case.edu/socialwork/nimc/sites/case.edu.nimc/files/2020-09/Goetz.WWV_.Changing%20the%20Narrative.2020.pdf)
+
+Goetz, E. G., Williams, R. A., & __Damiano, A.__ (2022). Whiteness and Urban Planning. In E. J. Mueller & J. R. Tighe (Eds.), *The Affordable Housing Reader* (2nd ed.). Routledge.
 
 
 # Working Papers
@@ -136,8 +138,6 @@ Urban Affairs Association  (2014-Present)
 American Collegiate Schools of Planning (2014-Present)
 
 # Service
-Reviewer 
+Reviewer:
 
-*City & Community* (2018-Present)
-
-*Urban Studies*    (2020-Present)
+City and Community, Urban Studies, Journal of the American Planning Association, Critical Sociology
